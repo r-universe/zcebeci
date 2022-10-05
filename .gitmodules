@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "odetector"]
+	path = odetector
+	url = https://github.com/zcebeci/odetector
+	shallow = true
+	registered = true
