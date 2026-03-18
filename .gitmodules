@@ -5,3 +5,6 @@
 [submodule "odetector"]
 	path = odetector
 	url = https://github.com/zcebeci/odetector
+[submodule "osktnorm"]
+	path = osktnorm
+	url = https://github.com/zcebeci/osktnorm
